@@ -1,10 +1,10 @@
 {
     "name": "adrod16",
-    "icon": "https://github.com/QLegacy/adrod16/raw/main/shop/icon.png",
+    "icon": "https://raw.githubusercontent.com/QLegacy/adrod16/refs/heads/main/shop/app.png",
     "size": "150",
-    "age": "3+",
-    "link": "https://github.com/QLegacy/adrod16/raw/main/shop/app.apk",
-    "description": "Лучшее приложение для управления вашими данными напрямую из репозитория.",
+    "age": "-67+",
+    "link": "https://github.com/QLegacy/adrod16/releases/download/tag/release.apk",
+    "description": "A funny prank about installing android 16.",
     "screenshots": [
         "https://via.placeholder.com/200x350",
         "https://via.placeholder.com/200x350"
